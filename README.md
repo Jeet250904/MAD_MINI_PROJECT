@@ -1,2 +1,12 @@
 # MAD_MINI_PROJECT
-![alt text](image.png)
+![Invalid Pass](image-1.png)
+![Admin Home Page](image-2.png)
+![Select Team For Match](image-3.png)
+![Create Contast](image-4.png)
+![Manage Contast ](image-5.png)
+![Show User](image-6.png)
+![Report Page](image-7.png)
+![User Page](image-8.png)
+![Create Team](image-10.png)
+![Create Team Sucessfully](image-9.png)
+![Contast Full](image-11.png)
